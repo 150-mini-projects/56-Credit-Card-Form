@@ -148,11 +148,6 @@ input {
   border-radius: 0.5em;
 }
 
-label {
-  margin-bottom: 0.5em;
-  font-weight: 600;
-}
-
 input:not(:last-child) {
   margin-bottom: 1em;
 }
